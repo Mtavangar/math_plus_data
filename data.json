@@ -16,6 +16,17 @@
       "aparatId": "ywb683m",
       "url": "",
       "id": "exam-1781726703877"
+    },
+    {
+      "section": "exam",
+      "type": "video",
+      "title": "هماهنگ خراسان رضوی 95 صبح",
+      "description": "",
+      "gradeId": "g9",
+      "term": "نوبت دوم",
+      "aparatId": "deref77",
+      "url": "",
+      "id": "exam-1782287427586"
     }
   ],
   "math_custom_practice_items": [],
@@ -28,6 +39,15 @@
       "description": "",
       "pdfUrl": "",
       "aparatId": "ywb683m"
+    },
+    {
+      "id": "exam-1782287427586",
+      "gradeId": "g9",
+      "title": "هماهنگ خراسان رضوی 95 صبح",
+      "term": "نوبت دوم",
+      "description": "",
+      "pdfUrl": "",
+      "aparatId": "deref77"
     }
   ],
   "math_custom_challenges_items": []
